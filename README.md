@@ -15,13 +15,13 @@ SocialBot, sosyal medya odaklı etkileşimi kolaylaştırmak ve artırmak için 
 ✔️ **Her Sunucuya Özel Setup Menüsü**  
 ✔️ **Tek Bir Komutla Tüm İşlevleri Gerçekleştirebileceğiniz Özel Ayarlanmış Sistem**  
 ✔️ **Her Sunucuda Mevcut Olan Sosyal Medya, Tweet ve Post Paylaşımı**  
+✔️ **Her 30 dakikada Bir Random Şekilde Setuptan Ayarlanabilen Bir Kanalda Üyelerin Hesapları Paylaşılacak** 
 **Not:** *Bütün Görseller Ve İşlevlere Kod Halindedir. Hazır Görsel Yada Başka Birşey **Kullanılmamıştır..*** 
 
 ### 📌 **Eklenecekler**
 ❌ **Eğlence Komutları**  
 ❌ **Mevcut Olan Embed, Buton ve selectmenü içeriklerini güzelleştirme ve güncelleme**  
 ❌ **Mevcut Olan createcanvas ile yapılmış görsel iyileştirmeleri**  
-❌ **Her 30 dakikada Bir Random Şekilde Setuptan Ayarlanabilen Bir Kanalda Üyelerin Hesapları Paylaşılacak** 
 
 ## 📂 **Proje İçeriği**  
 Bu repo, sosyal medya odaklı botlar için bir temel oluşturur. Mantığı inceleyerek kendi projelerinizi geliştirmek için ilham alabilirsiniz.  

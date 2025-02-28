@@ -40,6 +40,7 @@ Bu repo, sosyal medya odaklı botlar için bir temel oluşturur. Mantığı ince
 Tek Bir Komutla Tüm İşlevleri Gerçekleştirebiliyorsunuz..( Hem Görsel Hemde Butonlar Anlık Değişime Uğruyorlar.. )
 
 ![image](https://github.com/user-attachments/assets/016e2cc9-58c1-4811-988c-11739d187cbb)
+![image](https://github.com/user-attachments/assets/c90605b9-8cdb-4d15-911d-2bf686f1f767)
 
 
 ![image](https://github.com/user-attachments/assets/8d95c174-b8a0-4f57-b2f8-fd0f59915353)
@@ -72,8 +73,7 @@ Tek Bir Komutla Tüm İşlevleri Gerçekleştirebiliyorsunuz..( Hem Görsel Hemd
 ![image](https://github.com/user-attachments/assets/225e4f31-672c-4ad9-a1a4-21142faa1ff1)
 
 
-![image](https://github.com/user-attachments/assets/851679e8-8217-4f64-95cf-ad78c8b5c2e5)
-
+![image](https://github.com/user-attachments/assets/8972ae05-0a4c-4b8d-be49-7c8df3cd0ea7)
  
 
 </details>

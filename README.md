@@ -61,10 +61,16 @@ Bu repo, sosyal medya odaklı botlar için bir temel oluşturur. Mantığı ince
 
 ---
 
+<h2 align="center">
+ <a href="https://discord.com/users/332973153531985930"><img  width="400px" src="https://lanyard.kyrie25.me/api/332973153531985930?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)"></a>
+<br> </br>
+
+---
+
 ## 📥 **Botu Sunucuna Ekle**  
 SocialBot hakkında daha fazla bilgi almak veya satın almak için benimle iletişime geçebilirsin.  
 
-🔗 **[Botu Sunucunuza Ekleyin](https://discord.com/oauth2/authorize?client_id=1340783408539893950)**
+🔗 **[Botu Sunucunuza Ekleyin](https://discord.com/oauth2/authorize?client_id=1340783408539893950)** || [Discord Sunucumuz](https://discord.gg/junior) || [Discord Profil](https://discord.com/users/332973153531985930) || [Web Sitemiz](https://juniordev.com.tr)
 ---
 
 ## 📜 **Lisans**  

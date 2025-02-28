@@ -16,10 +16,10 @@ SocialBot, sosyal medya odaklı etkileşimi kolaylaştırmak ve artırmak için 
 ✔️ **Tek Bir Komutla Tüm İşlevleri Gerçekleştirebileceğiniz Özel Ayarlanmış Sistem**  
 ✔️ **Her Sunucuda Mevcut Olan Sosyal Medya, Tweet ve Post Paylaşımı**  
 ✔️ **Her 30 dakikada Bir Random Şekilde Setuptan Ayarlanabilen Bir Kanalda Üyelerin Hesapları Paylaşılacak** 
+✔️ **Eğlence Komutları**  
 **Not:** *Bütün Görseller Ve İşlevlere Kod Halindedir. Hazır Görsel Yada Başka Birşey **Kullanılmamıştır..*** 
 
 ### 📌 **Eklenecekler**
-❌ **Eğlence Komutları**  
 ❌ **Mevcut Olan Embed, Buton ve selectmenü içeriklerini güzelleştirme ve güncelleme**  
 ❌ **Mevcut Olan createcanvas ile yapılmış görsel iyileştirmeleri**  
 

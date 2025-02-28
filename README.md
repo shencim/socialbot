@@ -11,7 +11,7 @@ SocialBot, sosyal medya odaklı etkileşimi kolaylaştırmak ve artırmak için 
 
 ## 🔥 **Özellikler**  
 ✔️ **Özgün ve sıfırdan kodlanmış altyapı**  
-✔️ **Etkileşimli sosyal medya sohbet özellikleri**  
+✔️ **Etkileşimli sosyal medya özellikleri**  
 ✔️ **Her Sunucuya Özel Setup Menüsü**  
 ✔️ **Her Sunucuda Mevcut Olan Sosyal Medya, Tweet ve Post Paylaşımı**  
 **Not:** *Bütün Görseller Ve İşlevlere Kod Halindedir. Hazır Görsel Yada Başka Birşey **Kullanılmamıştır..*** 
@@ -22,7 +22,7 @@ SocialBot, sosyal medya odaklı etkileşimi kolaylaştırmak ve artırmak için 
 ❌ **Mevcut Olan createcanvas ile yapılmış görsel iyileştirmeleri**  
 
 ## 📌 **Proje İçeriği**  
-Bu repo, sosyal medya odaklı sohbet botları için bir temel oluşturur. Mantığı inceleyerek kendi projelerinizi geliştirmek için ilham alabilirsiniz.  
+Bu repo, sosyal medya odaklı botlar için bir temel oluşturur. Mantığı inceleyerek kendi projelerinizi geliştirmek için ilham alabilirsiniz.  
 
 ---
 

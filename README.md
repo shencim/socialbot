@@ -1,4 +1,4 @@
-# **SocialBot**  
+![image](https://github.com/user-attachments/assets/c45f82f7-9119-405e-a09e-2cd10e17678e)# **SocialBot**  
 
 Merhaba! Bir süredir üzerinde çalıştığım **SocialBot** artık sizlerle! 🎉  
 
@@ -38,6 +38,9 @@ Bu repo, sosyal medya odaklı botlar için bir temel oluşturur. Mantığı ince
 ![image](https://github.com/user-attachments/assets/d20f7983-a214-43b3-af94-9cea4cd888da)
 
 Tek Bir Komutla Tüm İşlevleri Gerçekleştirebiliyorsunuz..( Hem Görsel Hemde Butonlar Anlık Değişime Uğruyorlar.. )
+
+![image](https://github.com/user-attachments/assets/016e2cc9-58c1-4811-988c-11739d187cbb)
+
 
 ![image](https://github.com/user-attachments/assets/8d95c174-b8a0-4f57-b2f8-fd0f59915353)
 ![image](https://github.com/user-attachments/assets/ce5a6d4e-839f-445a-8ac7-3a98bdc26303)

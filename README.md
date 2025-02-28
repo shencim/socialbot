@@ -1,32 +1,67 @@
-# socialbot
-Evet Bir Müddetir Uğraştığım Güzel Bot Artık Sizlerle..
+# **SocialBot**  
 
+Merhaba! Bir süredir üzerinde çalıştığım **SocialBot** artık sizlerle! 🎉  
 
-💰 **BOT SADECE BOT KURDUĞUM SUNUCULAR VE ÜCRETLİ ŞEKİLDE BU BOTU SATIN ALAN SUNUCULARDA KULLANILABİLİR.**  
+## 🚀 **Hakkında**  
+SocialBot, sosyal medya odaklı etkileşimi kolaylaştırmak ve artırmak için geliştirilmiş özel bir bot projesidir. **Tamamen sıfırdan kodlanmış olup, herhangi bir kaynaktan kopyalanmamıştır.**  
 
-💙 **Kodları paylaşan dostlarıma teşekkür ederim!**  
-📌 Bu repo, farklı projeler için kullanılabilir ve geliştirilebilir.  
-🔗 İlgili kodlara göz atarak projelerinizi daha da ileriye taşıyabilirsiniz.  
+## 💰 **Kullanım Şartları**  
+- SocialBot **yalnızca bot kurduğum sunucularda** veya **ücretli olarak satın alan sunucularda** kullanılabilir.  
+- Genel kullanıma açık bir bot değildir.  
+
+## 🔥 **Özellikler**  
+✔️ **Özgün ve sıfırdan kodlanmış altyapı**  
+✔️ **Etkileşimli sosyal medya sohbet özellikleri**  
+✔️ **Her Sunucuya Özel Setup Menüsü**  
+✔️ **Her Sunucuda Mevcut Olan Sosyal Medya, Tweet ve Post Paylaşımı**  
+**Not:** *Bütün Görseller Ve İşlevlere Kod Halindedir. Hazır Görsel Yada Başka Birşey **Kullanılmamıştır..*** 
+
+### 💎 **Eklenecekler**
+❌ **Eğlence Komutları**  
+❌ **Mevcut Olan Embed, Buton ve selectmenü içeriklerini güzelleştirme ve güncelleme**  
+❌ **Mevcut Olan createcanvas ile yapılmış görsel iyileştirmeleri**  
+
+## 📌 **Proje İçeriği**  
+Bu repo, sosyal medya odaklı sohbet botları için bir temel oluşturur. Mantığı inceleyerek kendi projelerinizi geliştirmek için ilham alabilirsiniz.  
+
+---
+
+## 📸 **Örnek Görseller**  
 
 <details>
-  <summary>Public Bot Komutları</summary>
+  <summary>📌 User Komutlar</summary>
 
-![image](https://github.com/user-attachments/assets/ddba8f4e-4bbe-404d-9222-e5c38806914c)
-![image](https://github.com/user-attachments/assets/4d8fe0f9-cbbf-4461-bad2-14a7164c2bea)
+  ![image]()  
+  ![image]()  
 
 </details>
 
 <details>
-  <summary>Sorgu Komutları</summary>
+  <summary>📌 Admin Komutlar</summary>
 
   ![image]()  
 
 </details>
 
-
 <details>
-  <summary>SelfToken Komutları</summary>
+  <summary>📌 Setup Komutları</summary>
 
   ![image]()  
 
 </details>
+
+---
+
+## 📞 **İletişim & Destek**  
+SocialBot hakkında daha fazla bilgi almak veya satın almak için benimle iletişime geçebilirsin.  
+
+🔗 **[Discord Sunucusu](https://discord.gg/junior)**  |  ✉️ **[Web Site](https://juniordev.com.tr)** | 👤 **[Discord Profilim](https://discord.com/users/332973153531985930)**
+
+---
+
+## 📜 **Lisans**  
+Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) kapsamında lisanslanmıştır.  
+
+MIT Lisansı, projeyi kullanma, değiştirme, paylaşma ve dağıtma özgürlüğü sağlar. Ancak, bu projeyi kullanırken herhangi bir garanti veya sorumluluk kabul edilmez. Detaylar için `LICENSE` dosyasını inceleyebilirsiniz.  
+
+---

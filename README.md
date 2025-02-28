@@ -52,11 +52,10 @@ Bu repo, sosyal medya odaklı sohbet botları için bir temel oluşturur. Mantı
 
 ---
 
-## 📞 **İletişim & Destek**  
+## 📥 **Botu Sunucuna Ekle**  
 SocialBot hakkında daha fazla bilgi almak veya satın almak için benimle iletişime geçebilirsin.  
 
-🔗 **[Discord Sunucusu](https://discord.gg/junior)**  |  ✉️ **[Web Site](https://juniordev.com.tr)** | 👤 **[Discord Profilim](https://discord.com/users/332973153531985930)**
-
+🔗 **[Botu Sunucunuza Ekleyin](https://discord.com/oauth2/authorize?client_id=1340783408539893950)**
 ---
 
 ## 📜 **Lisans**  

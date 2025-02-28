@@ -80,12 +80,6 @@ Tek Bir Komutla Tüm İşlevleri Gerçekleştirebiliyorsunuz..( Hem Görsel Hemd
 
 ---
 
-<h2 align="center">
- <a href="https://discord.com/users/332973153531985930"><img  width="400px" src="https://lanyard.kyrie25.me/api/332973153531985930?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)"></a>
-<br> </br>
-
----
-
 ## 📥 **Botu Sunucuna Ekle**  
 SocialBot hakkında daha fazla bilgi almak veya satın almak için benimle iletişime geçebilirsiniz.  
 

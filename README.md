@@ -2,26 +2,28 @@
 
 Merhaba! Bir süredir üzerinde çalıştığım **SocialBot** artık sizlerle! 🎉  
 
-## 🚀 **Hakkında**  
-SocialBot, sosyal medya odaklı etkileşimi kolaylaştırmak ve artırmak için geliştirilmiş özel bir bot projesidir. **Tamamen sıfırdan kodlanmış olup, herhangi bir kaynaktan kopyalanmamıştır.**  
+## 📌 **Hakkında**  
+SocialBot, sosyal medya odaklı etkileşimi kolaylaştırmak ve artırmak için geliştirilmiş özel bir bot projesidir. **Tamamen sıfırdan kodlanmış olup, herhangi bir kaynaktan kopyalanmamıştır.**  Bot v14 Java Script Olarak Düzenlenilmiştir..
 
-## 💰 **Kullanım Şartları**  
+## 📜 **Kullanım Şartları**  
 - SocialBot **yalnızca bot kurduğum sunucularda** veya **ücretli olarak satın alan sunucularda** kullanılabilir.  
 - Genel kullanıma açık bir bot değildir.  
 
-## 🔥 **Özellikler**  
+## 🚀 **Öne Çıkan Özellikler**  
 ✔️ **Özgün ve sıfırdan kodlanmış altyapı**  
 ✔️ **Etkileşimli sosyal medya özellikleri**  
 ✔️ **Her Sunucuya Özel Setup Menüsü**  
+✔️ **Tek Bir Komutla Tüm İşlevleri Gerçekleştirebileceğiniz Özel Ayarlanmış Sistem**  
 ✔️ **Her Sunucuda Mevcut Olan Sosyal Medya, Tweet ve Post Paylaşımı**  
 **Not:** *Bütün Görseller Ve İşlevlere Kod Halindedir. Hazır Görsel Yada Başka Birşey **Kullanılmamıştır..*** 
 
-### 💎 **Eklenecekler**
+### 📌 **Eklenecekler**
 ❌ **Eğlence Komutları**  
 ❌ **Mevcut Olan Embed, Buton ve selectmenü içeriklerini güzelleştirme ve güncelleme**  
 ❌ **Mevcut Olan createcanvas ile yapılmış görsel iyileştirmeleri**  
+❌ **Her 30 dakikada Bir Random Şekilde Setuptan Ayarlanabilen Bir Kanalda Üyelerin Hesapları Paylaşılacak** 
 
-## 📌 **Proje İçeriği**  
+## 📂 **Proje İçeriği**  
 Bu repo, sosyal medya odaklı botlar için bir temel oluşturur. Mantığı inceleyerek kendi projelerinizi geliştirmek için ilham alabilirsiniz.  
 
 ---
@@ -30,16 +32,30 @@ Bu repo, sosyal medya odaklı botlar için bir temel oluşturur. Mantığı ince
 
 <details>
   <summary>📌 User Komutlar</summary>
+  
+![image](https://github.com/user-attachments/assets/7b917569-0c0a-4b21-88fc-57efd0746f40)
+![image](https://github.com/user-attachments/assets/ee9ef3f3-0adf-4dee-8ab0-7d5fd2155bef)
+![image](https://github.com/user-attachments/assets/d20f7983-a214-43b3-af94-9cea4cd888da)
 
-  ![image]()  
-  ![image]()  
+Tek Bir Komutla Tüm İşlevleri Gerçekleştirebiliyorsunuz..( Hem Görsel Hemde Butonlar Anlık Değişime Uğruyorlar.. )
+
+![image](https://github.com/user-attachments/assets/8d95c174-b8a0-4f57-b2f8-fd0f59915353)
+![image](https://github.com/user-attachments/assets/ce5a6d4e-839f-445a-8ac7-3a98bdc26303)
+![image](https://github.com/user-attachments/assets/011826c0-8cfe-4947-8402-5cdeb75a0a13)
+
+Üyenin Bulunduğu Sunucularda Eğer Botumuz Bulunuyorsa O Sunucuların Hepsinde Post Paylaşımı Mevcut Oluyor Ve Bununla Da Tüm Sunucularda Gözüken Postunuz ve Hesabınız Gözüküyor..
+
 
 </details>
 
 <details>
   <summary>📌 Admin Komutlar</summary>
 
-  ![image]()  
+![image](https://github.com/user-attachments/assets/abd2aa65-8eb6-40e6-8325-cbdc83912969)
+![image](https://github.com/user-attachments/assets/c4933098-2ee5-45d7-8f2b-504e044981d9)
+![image](https://github.com/user-attachments/assets/596ca619-8599-43b1-8d72-4891dbcf824b)
+![image](https://github.com/user-attachments/assets/7d641616-4f33-41f2-9247-0d83b5b9c306)
+
 
 </details>
 
@@ -68,7 +84,7 @@ Bu repo, sosyal medya odaklı botlar için bir temel oluşturur. Mantığı ince
 ---
 
 ## 📥 **Botu Sunucuna Ekle**  
-SocialBot hakkında daha fazla bilgi almak veya satın almak için benimle iletişime geçebilirsin.  
+SocialBot hakkında daha fazla bilgi almak veya satın almak için benimle iletişime geçebilirsiniz.  
 
 🔗 **[Botu Sunucunuza Ekleyin](https://discord.com/oauth2/authorize?client_id=1340783408539893950)** || [Discord Sunucumuz](https://discord.gg/junior) || [Discord Profil](https://discord.com/users/332973153531985930) || [Web Sitemiz](https://juniordev.com.tr)
 ---

@@ -53,7 +53,6 @@ Bu repo, sosyal medya odaklı sohbet botları için bir temel oluşturur. Mantı
 ![image](https://github.com/user-attachments/assets/225e4f31-672c-4ad9-a1a4-21142faa1ff1)
 
 
-![image](https://github.com/user-attachments/assets/c58ce84a-6ec6-428c-b5d4-a79c5e1c4d6d)
 ![image](https://github.com/user-attachments/assets/851679e8-8217-4f64-95cf-ad78c8b5c2e5)
 
  

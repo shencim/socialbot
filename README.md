@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c45f82f7-9119-405e-a09e-2cd10e17678e)# **SocialBot**  
+# **SocialBot**  
 
 Merhaba! Bir süredir üzerinde çalıştığım **SocialBot** artık sizlerle! 🎉  
 
